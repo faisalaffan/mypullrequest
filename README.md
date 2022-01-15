@@ -4,7 +4,7 @@
 
 | No. | Project | Status | Patch description | Pull request link |
 | :-: | ------- | :----: | ----------- | :--: |
-| 28 | Vonage Go SDK | **MERGED** | fix: [CVE-2020-26160](https://github.com/advisories/GHSA-w73w-5m7g-f7qc) | https://git.io/JMwQT |
+| 01 | Koperasi | **MERGED** | fix: [bug-01](https://github.com/faisal282) | https://git.io/JMwQT |
 
 ### Notes
 
