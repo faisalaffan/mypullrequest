@@ -1,6 +1,5 @@
 # My Open Source Contributions
 
-*Probably not that important* 🤷
 
 | No. | Project | Status | Patch description | Pull request link |
 | :-: | ------- | :----: | ----------- | :--: |
